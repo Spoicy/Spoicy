@@ -25,7 +25,7 @@
 <div align="center"> <b>Bootstrap</b>, <b>Vue.js</b>, <b>Angular</b>, <b>Laravel Livewire</b>, <b>Tailwind.css</b> </div>
 
 ### <div align="center"> <b>Backend Frameworks</b> </div>
-<div align="center"> <b>Laravel</b>, <b>CC-Framework</b> (defunct in-house framework), <b>Node.js</b>, <b>ASP.NET</b>, <b>Symfony</b> </div>
+<div align="center"> <b>Laravel</b>, <b>FastAPI</b>, <b>CC-Framework</b> (defunct in-house framework), <b>Node.js</b>, <b>ASP.NET</b>, <b>Symfony</b> </div>
 
 ### <div align="center"> <b>CMS</b> </div>
 <div align="center"> <b>Wordpress</b>, <b>Drupal</b>, <b>Various in-house solutions</b> (always a joy to work with) </div>
