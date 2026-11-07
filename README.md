@@ -1,6 +1,6 @@
 # Hello, I'm Jay / Spoicy!
 - Software Engineer
-- Graduated from HSLU, majoring in Software Engineering & DevOps
+- Graduated from HSLU with a major in Software Engineering & DevOps
 - PHP and Python Developer
 - Challenge Enthusiast and Speedrunner
 
@@ -9,7 +9,7 @@
 ### JoomGallery AI Interface
 - Extension of the JoomGallery project
 - Designed to automate and/or assist photographers and clients with tagging photos with keywords, using LLMs
-- Built with FastAPI, public release in October
+- Built with FastAPI, public beta by end of year
 
 ### Laravel websites
 - spoicy.ch: Hobby website for ideas that don't need their own specialized website
